@@ -58,7 +58,7 @@ Abra o FlameRobin e conecte-se ao Firebird.
 Crie um banco de dados para o sistema com o seguinte comando:
 
 ```bash
-CREATE DATABASE 'C:/caminho/para/seu/banco/colecoes-miniaturas.fdb' USER 'SYSDBA' PASSWORD 'masterkey';
+CREATE DATABASE 'C:/caminho/para/seu/banco/collection-manager.fdb' USER 'SYSDBA' PASSWORD 'masterkey';
 ```
 
 ### 2. Criar as tabelas no banco de dados
