@@ -100,19 +100,19 @@ Certifique-se de ajustar o caminho e as credenciais conforme suas configuraçõe
 
 ## Executar o projeto
 
-### 1. Inicie o Apache Tomcat no NetBeans.
+1. Inicie o Apache Tomcat no NetBeans.
 
-### 2. No NetBeans, clique com o botão direito no nome do projeto e selecione Run.
+2. No NetBeans, clique com o botão direito no nome do projeto e selecione Run.
 
-### 3. O projeto será executado no Tomcat e estará acessível via navegador no endereço: http://localhost:8080/nome-do-projeto.
+3. O projeto será executado no Tomcat e estará acessível via navegador no endereço: http://localhost:8080/nome-do-projeto.
 
 ## Funcionalidades do Sistema
 
-### 1. Cadastro de usuários: Permite que novos usuários se cadastrem com nome, e-mail e senha.
+1. Cadastro de usuários: Permite que novos usuários se cadastrem com nome, e-mail e senha.
 
-### 2. Gerenciamento de miniaturas: Após logado, o usuário pode adicionar, editar e remover miniaturas associadas à sua conta.
+2. Gerenciamento de miniaturas: Após logado, o usuário pode adicionar, editar e remover miniaturas associadas à sua conta.
 
-### 3. Visualização de coleção: O usuário pode visualizar todas as miniaturas cadastradas em sua conta, com detalhes como lugar, estado, país, data e status.
+3. Visualização de coleção: O usuário pode visualizar todas as miniaturas cadastradas em sua conta, com detalhes como lugar, estado, país, data e status.
 
 ## Contribuição
 
