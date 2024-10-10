@@ -31,7 +31,7 @@ O **Sistema de Gerenciamento de Miniaturas** permite que colecionadores registre
 Clone este repositório para sua máquina local usando o seguinte comando no terminal:
 
 ```bash
-git clone https://github.com/iSamuel22/collection-manager.git
+git clone https://github.com/smuelp/collection-manager.git
 ```
 
 ### 2. Abrir o projeto no NetBeans
